@@ -1,0 +1,6 @@
+framework module YyjSDK {
+  umbrella header "YyjSDK.h"
+
+  export *
+  module * { export * }
+}
